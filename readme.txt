@@ -7,7 +7,7 @@ edgrn-zidong.exe和edcmp-zidong.exe分别为格林函数计算程序和同震变
 coord_point_suidao.rpt为存储abaqus模型中边界节点坐标的文件，四列分别存储了节点编号、xyz坐标值；
 dyl.inp为平衡地应力所需文件，存储了边界各节点上地应力导致的节点反力，获取方法繁多，请自行网上查阅。
 
-suidao.cae为算例模型，此处需先在作业中进行地应力计算，运行作业suidao-DYL-S4R，再运行作业tanxingsuidao，也可自行选用其他方法平衡地应力。
+suidao.cae为算例模型，位于release目录下，需先在作业中进行地应力计算，运行作业suidao-DYL-S4R，再运行作业tanxingsuidao，也可自行选用其他方法平衡地应力。
 
 其他关于程序使用的疑问可发邮件至1280340163@qq.com.
 
