@@ -1,5 +1,5 @@
 main.m为GUI程序的输入界面，计算完成后得到disp.inp文件。
-zidong.m与上述程序作用相同，但无界面化，在脚本内直接修改参数亦可计算得到disp.inp文件。
+zidong.m与main.m程序作用相同，但无界面化，在脚本内直接修改参数亦可计算得到disp.inp文件。
 其他.m和.fig文件均为main.m的脚本和子界面。
 
 edgrn-zidong.exe和edcmp-zidong.exe分别为格林函数计算程序和同震变形场计算程序，已进行封装，参考代码见Wang RJ. 1999. A Simple Orthonormalization Method for Stable and Efficient [J]. Computers & Geosciences, 89(3) :733-741. 
